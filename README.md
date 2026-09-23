@@ -10,7 +10,7 @@ I like making things and figuring out how they work.
 **Backend:** Node.js · Express.js · Python<br>
 **Database:** MongoDB · SQL
 
-### urrently Exploring
+### Currently Exploring
 
 Angular · PostgreSQL · PHP
 
