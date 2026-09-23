@@ -4,18 +4,18 @@
 
 I like making things and figuring out how they work.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Frontend:** HTML · CSS · JavaScript · React · WordPress
-**Backend:** Node.js · Express.js · Python
+**Frontend:** HTML · CSS · JavaScript · React · WordPress<br>
+**Backend:** Node.js · Express.js · Python<br>
 **Database:** MongoDB · SQL
 
-### 🌱 Currently Exploring
+### urrently Exploring
 
 Angular · PostgreSQL · PHP
 
-### 🚀 Projects
+### Projects
 
-**SK-INSIGHT** — Profiling & management platform
-**Balayan.gov.ph** — Government website redesign
+**SK-INSIGHT** — Profiling & management platform<br>
+**Balayan.gov.ph** — Government website redesign<br>
 **Todo App** — JavaScript practice project
