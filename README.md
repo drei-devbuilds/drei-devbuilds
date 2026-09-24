@@ -2,7 +2,7 @@
 
 **Web Developer**
 
-I like making things and figuring out how they work.
+I like making things and figuring out how they work, I love the feeling of overthinking a problem and then finding out in the end that the solution is simpler
 
 ### Tech Stack
 
